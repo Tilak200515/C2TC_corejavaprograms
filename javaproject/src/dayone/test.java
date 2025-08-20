@@ -1,4 +1,4 @@
-package pg1;
+package dayone;
 
 public class test {
 
